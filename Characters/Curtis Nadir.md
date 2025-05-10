@@ -1,5 +1,5 @@
 ---
-name: Curtis Griffin
+name: Curtis Nadir
 xp_spent: 0
 xp_added: 0
 momentum: 2

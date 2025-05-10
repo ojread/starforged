@@ -8,31 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ce47dcb0fbf47f47",
-            "type": "leaf",
-            "state": {
-              "type": "iron-vault-onboarding",
-              "state": {},
-              "icon": "iron-vault",
-              "title": "Welcome to Iron Vault!"
-            }
-          },
-          {
             "id": "edd7c50d95e68de7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Curtis Griffin.md",
+                "file": "Characters/Curtis Nadir.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Curtis Griffin"
+              "title": "Curtis Nadir"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +95,7 @@
             "state": {
               "type": "iron-vault-datasworn-content-view",
               "state": {
-                "file": "Characters/Curtis Griffin.md"
+                "file": "Characters/Curtis Nadir.md"
               },
               "icon": "package-search",
               "title": "Iron Vault Homebrew Inspector"
@@ -121,7 +111,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -132,18 +123,19 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "iron-vault:Show Iron Vault commands": false
     }
   },
-  "active": "edd7c50d95e68de7",
+  "active": "fd50c2506cd8d004",
   "lastOpenFiles": [
+    "Factions/Silver Syndicate.md",
+    "Factions/Order of the Blessed Builders.md",
+    "Factions/Ebon Suns.md",
     "Starforged.md",
     "Truths.md",
-    "Characters/Curtis Griffin.md",
+    "Characters/Curtis Nadir.md",
     "Lore",
     "Factions",
     "Locations",
