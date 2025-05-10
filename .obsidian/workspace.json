@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Curtis Nadir.md",
+                "file": "Journals/Session 0.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Curtis Nadir"
+              "title": "Session 0"
             }
           }
         ]
@@ -128,14 +128,14 @@
       "iron-vault:Show Iron Vault commands": false
     }
   },
-  "active": "fd50c2506cd8d004",
+  "active": "edd7c50d95e68de7",
   "lastOpenFiles": [
+    "Characters/Curtis Nadir.md",
     "Factions/Silver Syndicate.md",
     "Factions/Order of the Blessed Builders.md",
     "Factions/Ebon Suns.md",
     "Starforged.md",
     "Truths.md",
-    "Characters/Curtis Nadir.md",
     "Lore",
     "Factions",
     "Locations",
