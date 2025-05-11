@@ -11,10 +11,30 @@
             "id": "b1a804a34fbf6945",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Journals/Session 0.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 0"
+            }
+          },
+          {
+            "id": "8291488e4d7180b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Bitter Zenith.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "The Bitter Zenith"
             }
           },
           {
@@ -32,7 +52,8 @@
               "title": "Ulan Kuzmin"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,20 +144,20 @@
       "iron-vault:Show Iron Vault commands": false
     }
   },
-  "active": "b1a804a34fbf6945",
+  "active": "8291488e4d7180b5",
   "lastOpenFiles": [
+    "Locations/Weyland Outpost.md",
+    "The Bitter Zenith.md",
+    "Locations/Dryad.md",
+    "Locations/Ishum.md",
+    "Locations/Sapphire.md",
     "Journals/Session 0.md",
     "Factions/Stellar Watchers.md",
-    "Locations/Weyland Outpost.md",
     "Locations/Janus Station.md",
     "Characters/Ulan Kuzmin.md",
     "Locations/Redemption.md",
-    "Locations/Dryad.md",
-    "Locations/Sapphire.md",
     "Locations/Sagan.md",
-    "Locations/Ishum.md",
     "Factions/Silver Syndicate.md",
-    "Untitled.md",
     "Factions/Ebon Suns.md",
     "Factions/Order of the Blessed Builders.md",
     "Characters/Curtis Nadir.md",
