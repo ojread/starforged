@@ -20,24 +20,3 @@ oracle-group name="Planet: [[Ishum]]" {
 ```
 
 This is the beginning of a great adventure...
-
-```iron-vault-mechanics
-oracle-group name="Campaign Launch Oracles: New Campaign Launch Oracles" {
-    oracle name="[Campaign Launch Oracles \/ Background Assets](datasworn:oracle_rollable:starforged\/campaign_launch\/background_assets)" result="Exobiologist" roll=12
-    oracle name="[Campaign Launch Oracles \/ Backstory Prompts](datasworn:oracle_rollable:starforged\/campaign_launch\/backstory_prompts)" result="You were banished from your former home" roll=54
-    oracle name="[Campaign Launch Oracles \/ Starship History](datasworn:oracle_rollable:starforged\/campaign_launch\/starship_history)" result="Taken while fleeing an attack or disaster" roll=86
-    oracle name="[Campaign Launch Oracles \/ Starship Quirks](datasworn:oracle_rollable:starforged\/campaign_launch\/starship_quirks)" result="Old bloodstain in the airlock reappears even when painted over" roll=48
-    oracle name="[Campaign Launch Oracles \/ Sector Trouble](datasworn:oracle_rollable:starforged\/campaign_launch\/sector_trouble)" result="Devastating superweapon has fallen into the wrong hands" roll=21
-    oracle name="[Campaign Launch Oracles \/ Inciting Incident](datasworn:oracle_rollable:starforged\/campaign_launch\/inciting_incident)" result="Sabotage an enemy installation" roll=76
-}
-oracle-group name="Planet: [[Dryad]]" {
-    oracle name="[Templates \/ Region](datasworn:oracle_rollable:starforgedsupp\/core\/region)" result="Terminus" roll=12
-    oracle name="[Planet Oracles \/ Planetary Class](datasworn:oracle_rollable:starforged\/planet\/class)" result="[Jungle World](datasworn:oracle_collection:starforged\/planet\/jungle)" roll=70
-    oracle name="[Planet name](datasworn:oracle_rollable:starforged\/planet\/jungle\/name)" result="Dryad" roll=7
-    oracle name="[Planet Oracles \/ Jungle World \/ Atmosphere](datasworn:oracle_rollable:starforged\/planet\/jungle\/atmosphere)" result="Ideal" roll=91
-    oracle name="[Planet Oracles \/ Jungle World \/ Observed From Space](datasworn:oracle_rollable:starforged\/planet\/jungle\/observed_from_space)" result="Unbroken canopy" roll=37
-    oracle name="[Settlements](datasworn:oracle_rollable:starforged\/planet\/jungle\/settlements\/terminus)" result="Planetside settlement" roll=67
-}
-
-```
-
