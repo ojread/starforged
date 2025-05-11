@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Janus Station.md",
+                "file": "Journals/Session 0.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Janus Station"
+              "title": "Session 0"
             }
           }
         ]
@@ -115,11 +115,12 @@
   },
   "active": "b1a804a34fbf6945",
   "lastOpenFiles": [
+    "Locations/Weyland.md",
+    "Locations/Sapphire.md",
+    "Locations/Sagan.md",
     "Locations/Ishum.md",
     "Locations/Janus Station.md",
     "Factions/Silver Syndicate.md",
-    "Locations/Sapphire.md",
-    "Locations/Sagan.md",
     "Untitled.md",
     "Factions/Ebon Suns.md",
     "Factions/Order of the Blessed Builders.md",
