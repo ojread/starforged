@@ -5,3 +5,5 @@
 | Location |  Deep Space  |
 | Population |  Thousands  |
 | First Look |  Precarious location  |
+A research station in orbit around the black hole, Mobius.
+
