@@ -7,4 +7,4 @@
 | Observed From Space |  Fiery world-spanning chasms  |
 | Settlements |  Orbital settlement  |
 
-A volcanic  [[Janus]] is in orbit
+The most geologically active object in the sector, Ishum is a hellish place but the only source of some rare minerals.  [[Janus Station]] is in orbit, where the mining operation is run. 
