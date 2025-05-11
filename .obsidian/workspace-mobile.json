@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Sapphire.md",
+                "file": "Locations/Sagan.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Sapphire"
+              "title": "Sagan"
             }
           }
         ],
@@ -105,9 +105,19 @@
           "icon": "package-search",
           "title": "Iron Vault Homebrew Inspector"
         }
+      },
+      {
+        "id": "578fdf1879751399",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -121,10 +131,10 @@
   },
   "active": "8d94084e6b7f38e0",
   "lastOpenFiles": [
+    "Locations/Sapphire.md",
     "Locations/Sagan.md",
     "Factions/Silver Syndicate.md",
     "Factions/Ebon Suns.md",
-    "Locations/Sapphire.md",
     "Characters/Curtis Nadir.md",
     "Truths.md",
     "Journals/Session 0.md",
