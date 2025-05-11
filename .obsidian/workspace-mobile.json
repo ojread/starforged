@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Weyland.md",
+                "file": "Factions/Stellar Watchers.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Weyland"
+              "title": "Stellar Watchers"
             }
           }
         ],
@@ -131,10 +131,11 @@
   },
   "active": "c6aa0e341e76eb39",
   "lastOpenFiles": [
+    "Locations/Weyland.md",
+    "Factions/Stellar Watchers.md",
     "Journals/Session 0.md",
     "Locations/Redemption.md",
     "Locations/Dryad.md",
-    "Locations/Weyland.md",
     "Locations/Sapphire.md",
     "Locations/Sagan.md",
     "Locations/Ishum.md",
