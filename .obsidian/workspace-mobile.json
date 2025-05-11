@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Weyland.md",
+                "file": "Journals/Session 0.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Weyland"
+              "title": "Session 0"
             }
           }
         ],
@@ -131,8 +131,8 @@
   },
   "active": "c6aa0e341e76eb39",
   "lastOpenFiles": [
-    "Factions/Stellar Watchers.md",
     "Locations/Weyland.md",
+    "Factions/Stellar Watchers.md",
     "Journals/Session 0.md",
     "Locations/Redemption.md",
     "Locations/Dryad.md",
