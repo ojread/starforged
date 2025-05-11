@@ -4,3 +4,4 @@
 | Faction Name Template | Silver Syndicate                                                  |
 | Dominion              | Commerce                                                          |
 | Dominion: Leadership  | Disputed leadership                                               |
+Controls all commerce in the sector. Headquarters is in [[Sagan]] on [[Sapphire]]. Apparently likes the letter S.
