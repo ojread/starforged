@@ -4,4 +4,4 @@
 | Faction Name Template | Stellar Watchers                                            |
 | Guild                 | Researchers                                                 |
 
-They operate [[Weyland]] which orbits just outside the event horizon of the black hole, Mobius. 
+They operate [[Weyland]] which orbits just outside the event horizon of the black hole, Mobius. They monitor strange signals seemingly coming from the black hole. 
