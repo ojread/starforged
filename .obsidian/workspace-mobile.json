@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Weyland.md",
+                "file": "Journals/Session 0.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Weyland"
+              "title": "Session 0"
             }
           }
         ]
@@ -115,8 +115,9 @@
   },
   "active": "b1a804a34fbf6945",
   "lastOpenFiles": [
-    "Journals/Session 0.md",
     "Locations/Weyland.md",
+    "Locations/Redemption.md",
+    "Journals/Session 0.md",
     "Locations/Sapphire.md",
     "Locations/Sagan.md",
     "Locations/Ishum.md",
