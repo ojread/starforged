@@ -6,3 +6,5 @@
 | Atmosphere |  Ideal  |
 | Observed From Space |  Unbroken canopy  |
 | Settlements |  Planetside settlement  |
+
+ Home to the crashed freighter [[Redemption]].
