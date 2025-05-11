@@ -7,4 +7,4 @@
 | Observed From Space |  Fiery world-spanning chasms  |
 | Settlements |  Orbital settlement  |
 
-[[Janus]] is in orbit
+A volcanic  [[Janus]] is in orbit
