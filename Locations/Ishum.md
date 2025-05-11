@@ -6,3 +6,5 @@
 | Atmosphere |  Toxic  |
 | Observed From Space |  Fiery world-spanning chasms  |
 | Settlements |  Orbital settlement  |
+
+[[Janus]] is in orbit
