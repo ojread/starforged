@@ -7,4 +7,5 @@
 | Initial Disposition |  Friendly  |
 | Character Role |  Researcher  |
 | Character Goal |  Fight injustice  |
-Researcher for the [[Stellar Watchers]] on [[Weyland]].
+
+Senior researcher for the [[Stellar Watchers]] on [[Weyland]].
