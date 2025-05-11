@@ -1,2 +1,5 @@
-This is the beginning of a great adventure...
 
+
+
+
+The Bitter Zenith sector was a hub of
