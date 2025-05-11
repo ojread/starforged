@@ -30,5 +30,14 @@ oracle-group name="Campaign Launch Oracles: New Campaign Launch Oracles" {
     oracle name="[Campaign Launch Oracles \/ Sector Trouble](datasworn:oracle_rollable:starforged\/campaign_launch\/sector_trouble)" result="Devastating superweapon has fallen into the wrong hands" roll=21
     oracle name="[Campaign Launch Oracles \/ Inciting Incident](datasworn:oracle_rollable:starforged\/campaign_launch\/inciting_incident)" result="Sabotage an enemy installation" roll=76
 }
+oracle-group name="Planet: [[Dryad]]" {
+    oracle name="[Templates \/ Region](datasworn:oracle_rollable:starforgedsupp\/core\/region)" result="Terminus" roll=12
+    oracle name="[Planet Oracles \/ Planetary Class](datasworn:oracle_rollable:starforged\/planet\/class)" result="[Jungle World](datasworn:oracle_collection:starforged\/planet\/jungle)" roll=70
+    oracle name="[Planet name](datasworn:oracle_rollable:starforged\/planet\/jungle\/name)" result="Dryad" roll=7
+    oracle name="[Planet Oracles \/ Jungle World \/ Atmosphere](datasworn:oracle_rollable:starforged\/planet\/jungle\/atmosphere)" result="Ideal" roll=91
+    oracle name="[Planet Oracles \/ Jungle World \/ Observed From Space](datasworn:oracle_rollable:starforged\/planet\/jungle\/observed_from_space)" result="Unbroken canopy" roll=37
+    oracle name="[Settlements](datasworn:oracle_rollable:starforged\/planet\/jungle\/settlements\/terminus)" result="Planetside settlement" roll=67
+}
+
 ```
 
