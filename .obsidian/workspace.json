@@ -111,7 +111,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -127,7 +128,7 @@
       "iron-vault:Show Iron Vault commands": false
     }
   },
-  "active": "a241a71000343094",
+  "active": "edd7c50d95e68de7",
   "lastOpenFiles": [
     "Bitter Zenith.md",
     "Characters/Ulan Kuzmin.md",
