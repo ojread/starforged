@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Bitter Zenith.md",
+                "file": "Journals/Session 0.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Bitter Zenith"
+              "title": "Session 0"
             }
           }
         ]
@@ -128,16 +128,16 @@
       "iron-vault:Show Iron Vault commands": false
     }
   },
-  "active": "0b804ce0ebd2f5d7",
+  "active": "edd7c50d95e68de7",
   "lastOpenFiles": [
-    "The Bitter Zenith.md",
+    "Locations/Weyland Outpost.md",
+    "Factions/Stellar Watchers.md",
     "Locations/Bitter Zenith.md",
+    "The Bitter Zenith.md",
     "Starforged.md",
     "Journals/Session 0.md",
-    "Locations/Weyland Outpost.md",
     "Locations/Redemption.md",
     "Locations/Dryad.md",
-    "Factions/Stellar Watchers.md",
     "Characters/Ulan Kuzmin.md",
     "Locations/Weyland.md",
     "Locations/Janus Station.md",
