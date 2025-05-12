@@ -111,7 +111,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -127,17 +128,8 @@
       "iron-vault:Show Iron Vault commands": false
     }
   },
-  "active": "edd7c50d95e68de7",
+  "active": "fd50c2506cd8d004",
   "lastOpenFiles": [
-    "Characters/Ulan Kuzmin.md",
-    "Journals/Session 0.md",
-    "Locations/Weyland Outpost.md",
-    "Factions/Stellar Watchers.md",
-    "Locations/Bitter Zenith.md",
-    "The Bitter Zenith.md",
-    "Starforged.md",
-    "Locations/Redemption.md",
-    "Locations/Dryad.md",
     "Locations/Weyland.md",
     "Locations/Janus Station.md",
     "Locations/Ishum.md",
@@ -147,10 +139,12 @@
     "Factions/Silver Syndicate.md",
     "Factions/Order of the Blessed Builders.md",
     "Factions/Ebon Suns.md",
+    "Starforged.md",
     "Truths.md",
     "Lore",
     "Factions",
     "Locations",
+    "Journals/Session 0.md",
     "Journals",
     "Progress",
     "Clocks",
