@@ -5,3 +5,15 @@ Across the other side of the [[Bitter Zenith]] sector, a huge crystalline Precur
 
 
 
+```iron-vault-mechanics
+oracle-group name="Campaign Launch Oracles: New Campaign Launch Oracles" {
+    oracle name="[Campaign Launch Oracles \/ Background Assets](datasworn:oracle_rollable:starforged\/campaign_launch\/background_assets)" result="Operative" roll=54
+    oracle name="[Campaign Launch Oracles \/ Backstory Prompts](datasworn:oracle_rollable:starforged\/campaign_launch\/backstory_prompts)" result="You are the sole survivor of an attack or calamity" roll=33
+    oracle name="[Campaign Launch Oracles \/ Starship History](datasworn:oracle_rollable:starforged\/campaign_launch\/starship_history)" result="Inherited from a relative or mentor" roll=61
+    oracle name="[Campaign Launch Oracles \/ Starship Quirks](datasworn:oracle_rollable:starforged\/campaign_launch\/starship_quirks)" result="Strange symbols are scrawled on the deck and bulkheads in the main corridor" roll=89
+    oracle name="[Campaign Launch Oracles \/ Starship Quirks](datasworn:oracle_rollable:starforged\/campaign_launch\/starship_quirks)" result="Navigation logs contain coordinates to locations that do not—or should not—exist" roll=45
+    oracle name="[Campaign Launch Oracles \/ Sector Trouble](datasworn:oracle_rollable:starforged\/campaign_launch\/sector_trouble)" result="Precursor sites throughout the sector emit strange signals" roll=55
+    oracle name="[Campaign Launch Oracles \/ Inciting Incident](datasworn:oracle_rollable:starforged\/campaign_launch\/inciting_incident)" result="Search for a missing expedition in the depths of a precursor vault" roll=82
+}
+```
+
