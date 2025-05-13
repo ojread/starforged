@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journals/Session 0.md",
+                "file": "Factions/Order of the Blessed Builders.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Session 0"
+              "title": "Order of the Blessed Builders"
             }
           }
         ]
@@ -129,11 +129,11 @@
   },
   "active": "e745bd9e35bcd872",
   "lastOpenFiles": [
+    "Factions/Ebon Suns.md",
+    "Journals/Session 0.md",
     "Factions/Stellar Watchers.md",
     "Factions/Silver Syndicate.md",
     "Factions/Order of the Blessed Builders.md",
-    "Factions/Ebon Suns.md",
-    "Journals/Session 0.md",
     "Bitter Zenith.md",
     "Characters/Ulan Kuzmin.md",
     "Locations/Weyland Outpost.md",
