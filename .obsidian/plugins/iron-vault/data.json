@@ -1,5 +1,5 @@
 {
-  "graphicalOracleDice": false,
+  "graphicalOracleDice": true,
   "graphicalActionDice": true,
   "actionDieColor": "#8f8f8f",
   "challengeDie1Color": "#8b5cf5",
