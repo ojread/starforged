@@ -11,15 +11,14 @@
             "id": "e745bd9e35bcd872",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Journals/Session 0.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Session 0"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -116,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -131,9 +129,9 @@
   },
   "active": "e745bd9e35bcd872",
   "lastOpenFiles": [
+    "Journals/Session 0.md",
     "Locations/Redemption.md",
     "Locations/Dryad.md",
-    "Journals/Session 0.md",
     "Locations/Bitter Zenith.md",
     "Factions/Stellar Watchers.md",
     "Factions/Silver Syndicate.md",
