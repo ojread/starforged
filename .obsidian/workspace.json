@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6febeead126dbd1e",
+        "id": "6b72792b45d52384",
         "type": "tabs",
         "children": [
           {
-            "id": "edd7c50d95e68de7",
+            "id": "e745bd9e35bcd872",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -111,8 +111,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -128,13 +127,16 @@
       "iron-vault:Show Iron Vault commands": false
     }
   },
-  "active": "edd7c50d95e68de7",
+  "active": "e745bd9e35bcd872",
   "lastOpenFiles": [
+    "Factions/Ebon Suns.md",
     "Journals/Session 0.md",
+    "Factions/Stellar Watchers.md",
+    "Factions/Silver Syndicate.md",
+    "Factions/Order of the Blessed Builders.md",
     "Bitter Zenith.md",
     "Characters/Ulan Kuzmin.md",
     "Locations/Weyland Outpost.md",
-    "Factions/Stellar Watchers.md",
     "Locations/Bitter Zenith.md",
     "The Bitter Zenith.md",
     "Starforged.md",
@@ -146,9 +148,6 @@
     "Locations/Sapphire.md",
     "Locations/Sagan.md",
     "Characters/Curtis Nadir.md",
-    "Factions/Silver Syndicate.md",
-    "Factions/Order of the Blessed Builders.md",
-    "Factions/Ebon Suns.md",
     "Truths.md",
     "Lore",
     "Factions",
