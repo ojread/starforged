@@ -1,3 +1,4 @@
+
 | Name                  | Ebon Suns                                                                 |
 | --------------------- | ------------------------------------------------------------------------- |
 | Faction Type          | [Fringe Group](datasworn:oracle_rollable:starforged/faction/fringe_group) |
