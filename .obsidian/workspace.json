@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journals/Session 0.md",
+                "file": "Factions/Ebon Suns.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Session 0"
+              "title": "Ebon Suns"
             }
           }
         ]
@@ -131,12 +131,14 @@
   },
   "active": "e745bd9e35bcd872",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Journals/Session 0.md",
+    "Factions/Silver Syndicate.md",
     "Factions/Order of the Blessed Builders.md",
     "Factions/Ebon Suns.md",
+    "Locations/Janus Station.md",
+    "Locations/Ishum.md",
+    "Journals/Session 0.md",
     "Factions/Stellar Watchers.md",
-    "Factions/Silver Syndicate.md",
+    "conflict-files-obsidian-git.md",
     "Bitter Zenith.md",
     "Characters/Ulan Kuzmin.md",
     "Locations/Weyland Outpost.md",
@@ -146,8 +148,6 @@
     "Locations/Redemption.md",
     "Locations/Dryad.md",
     "Locations/Weyland.md",
-    "Locations/Janus Station.md",
-    "Locations/Ishum.md",
     "Locations/Sapphire.md",
     "Locations/Sagan.md",
     "Characters/Curtis Nadir.md",
