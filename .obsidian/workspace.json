@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Order of the Blessed Builders.md",
+                "file": "Factions/Stellar Watchers.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Order of the Blessed Builders"
+              "title": "Stellar Watchers"
             }
           }
         ]
@@ -111,8 +111,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -130,6 +129,9 @@
   },
   "active": "edd7c50d95e68de7",
   "lastOpenFiles": [
+    "Factions/Silver Syndicate.md",
+    "Factions/Order of the Blessed Builders.md",
+    "Factions/Ebon Suns.md",
     "Journals/Session 0.md",
     "Bitter Zenith.md",
     "Characters/Ulan Kuzmin.md",
@@ -146,9 +148,6 @@
     "Locations/Sapphire.md",
     "Locations/Sagan.md",
     "Characters/Curtis Nadir.md",
-    "Factions/Silver Syndicate.md",
-    "Factions/Order of the Blessed Builders.md",
-    "Factions/Ebon Suns.md",
     "Truths.md",
     "Lore",
     "Factions",
