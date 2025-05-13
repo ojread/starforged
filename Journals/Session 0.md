@@ -4,6 +4,8 @@ Across the other side of the [[Bitter Zenith]] sector, a huge crystalline Precur
 
 The [[Stellar Watchers]] quickly organised an expedition into the vault. The team reported some incredible discoveries but all contact was suddenly lost when the vault began to emit strange signals.
 
+That's where I come in. 
+
 ```iron-vault-mechanics
 oracle-group name="Campaign Launch Oracles: New Campaign Launch Oracles" {
     oracle name="[Campaign Launch Oracles \/ Background Assets](datasworn:oracle_rollable:starforged\/campaign_launch\/background_assets)" result="Operative" roll=54
