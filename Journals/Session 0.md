@@ -1,9 +1,8 @@
-
 [[Ulan Kuzmin]] rushed to his monitoring station and muted the alarm. A powerful signal had been detected coming from Mobius, the black hole around which [[Weyland Outpost]] orbited.
 
-Across the other side of the [[Bitter Zenith]] sector, a huge crystalline Precursor Vault appeared from out of nowhere in the orbit of [[Sapphire]]. The [[Silver Syndicate]] had tight control over all the commerce in the region with many of the major corporation headquarters located on [[Sapphire]]'s wide array of moons. This was all thrown into chaos by the arrival of the vault and most spacers were scared to fly anywhere near it. Vaults had been discovered before in deep space and on uninhabited planets but never so close to civilisation. 
+Across the other side of the [[Bitter Zenith]] sector, a huge crystalline Precursor Vault appeared from out of nowhere in the orbit of [[Sapphire]]. The [[Silver Syndicate]] had tight control over all the commerce in the region with many of the major corporation headquarters located on [[Sapphire]]'s wide array of moons. This was all thrown into chaos by the arrival of the vault and most spacers were scared to fly anywhere near it. Vaults had been discovered before in deep space and on uninhabited planets but never so close to civilisation.
 
-The [[Stellar Watchers]] quickly organised an expedition into the vault. 
+The [[Stellar Watchers]] quickly organised an expedition into the vault. The team reported some incredible discoveries but all contact was suddenly lost when the vault began to emit strange signals.
 
 ```iron-vault-mechanics
 oracle-group name="Campaign Launch Oracles: New Campaign Launch Oracles" {
@@ -16,4 +15,3 @@ oracle-group name="Campaign Launch Oracles: New Campaign Launch Oracles" {
     oracle name="[Campaign Launch Oracles \/ Inciting Incident](datasworn:oracle_rollable:starforged\/campaign_launch\/inciting_incident)" result="Search for a missing expedition in the depths of a precursor vault" roll=82
 }
 ```
-
