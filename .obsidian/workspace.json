@@ -4,21 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6b72792b45d52384",
+        "id": "44514b3ab36aad02",
         "type": "tabs",
         "children": [
           {
-            "id": "e745bd9e35bcd872",
+            "id": "51f938e7b7fc52d3",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Journals/Session 0.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Session 0"
             }
           }
         ]
@@ -94,7 +95,7 @@
             "state": {
               "type": "iron-vault-datasworn-content-view",
               "state": {
-                "file": "Characters/Curtis Nadir.md"
+                "file": "Journals/Session 0.md"
               },
               "icon": "package-search",
               "title": "Iron Vault Homebrew Inspector"
@@ -127,7 +128,7 @@
       "iron-vault:Show Iron Vault commands": false
     }
   },
-  "active": "e745bd9e35bcd872",
+  "active": "fd50c2506cd8d004",
   "lastOpenFiles": [
     "Journals/Session 0.md",
     "Locations/Redemption.md",
