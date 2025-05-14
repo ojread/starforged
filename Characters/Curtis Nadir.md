@@ -45,6 +45,14 @@ assets:
       - false
     controls: {}
     options: {}
+  - id: asset:starforged/path/armored
+    abilities:
+      - true
+      - false
+      - false
+    controls:
+      broken: false
+    options: {}
 ---
 
 
