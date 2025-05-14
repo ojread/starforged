@@ -53,6 +53,7 @@ assets:
     controls:
       broken: false
     options: {}
+pronouns: He/him
 ---
 
 
