@@ -16,6 +16,14 @@ After that I just wanted to keep my head down. But these signals have triggered 
 
 I take out my black iron combat knife and swear an iron vow to go to [[Sapphire]] and get in that vault. 
 
+```iron-vault-mechanics
+track name="[[Progress\/Enter the vault at Sapphire.md|Enter the vault at Sapphire]]" status="added"
+move "[Swear an Iron Vow](datasworn:move:starforged\/quest\/swear_an_iron_vow)" {
+    roll "Heart" action=3 adds=0 stat=2 vs1=2 vs2=4
+}
+
+```
+
 
 
 
