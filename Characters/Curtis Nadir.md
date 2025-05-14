@@ -31,6 +31,13 @@ assets:
       integrity/cursed: false
     options:
       name: Elara Five
+  - id: asset:starforged/path/veteran
+    abilities:
+      - true
+      - false
+      - false
+    controls: {}
+    options: {}
 ---
 
 
