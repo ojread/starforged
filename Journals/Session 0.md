@@ -4,7 +4,9 @@ Across the other side of the [[Bitter Zenith]] sector, a huge crystalline Precur
 
 The [[Stellar Watchers]] quickly organised an expedition into the vault. The team reported some incredible discoveries but all contact was suddenly lost when the vault began to emit strange signals.
 
-
+```iron-vault-mechanics
+track name="[[Progress\/Learn the mysteries of the vaults.md|Learn the mysteries of the vaults]]" status="added"
+```
 
 That's where I come in. I'm Curtis Nadir, previously an agent for the [[Silver Syndicate]], currently a miner operating out of [[Janus Station]], for the [[Obsidian Hammers]]. Five years ago, a precursor vault was discovered on [[Dryad]] and I was sent in as part of the security team for the expedition.
 
