@@ -10,6 +10,9 @@ We encountered strange energies and creatures in there that killed the rest of t
 
 After that I just wanted to keep my head down. But these signals have triggered something in the Elara's nav, calling me to the vault.
 
+
+
+
 ```iron-vault-mechanics
 oracle-group name="Campaign Launch Oracles: New Campaign Launch Oracles" {
     oracle name="[Campaign Launch Oracles \/ Background Assets](datasworn:oracle_rollable:starforged\/campaign_launch\/background_assets)" result="Operative" roll=54

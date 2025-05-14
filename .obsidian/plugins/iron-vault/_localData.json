@@ -1,3 +1,7 @@
 {
-  "campaigns": {}
+  "campaigns": {
+    "Starforged.md": {
+      "activeCharacter": "Characters/Curtis Nadir.md"
+    }
+  }
 }
