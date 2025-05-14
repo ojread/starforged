@@ -14,7 +14,9 @@ We encountered strange energies and creatures in there that killed the rest of t
 
 After that I just wanted to keep my head down. But these signals have triggered something in the Elara's nav, calling me to the vault.
 
-I swear an 
+I take out my black iron combat knife and swear an iron vow to go to [[Sapphire]] and get in that vault. 
+
+
 
 
 ```iron-vault-mechanics
