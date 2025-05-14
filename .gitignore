@@ -1,4 +1,5 @@
+# Ignore OS files.
 .DS_Store
 
-.obsidian/workspace-mobile.json
-.obsidian/workspace.json
+# Workspace layout changes too much to sync.
+.obsidian/workspace*.json
