@@ -38,6 +38,13 @@ assets:
       - false
     controls: {}
     options: {}
+  - id: asset:starforged/path/explorer
+    abilities:
+      - true
+      - false
+      - false
+    controls: {}
+    options: {}
 ---
 
 
