@@ -3,9 +3,9 @@ name: Curtis Nadir
 xp_spent: 0
 xp_added: 0
 momentum: 2
-edge: 3
+edge: 2
 heart: 2
-iron: 2
+iron: 1
 shadow: 1
 wits: 3
 health: 5
