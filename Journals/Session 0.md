@@ -23,9 +23,7 @@ move "[Swear an Iron Vow](datasworn:move:starforged\/quest\/swear_an_iron_vow)" 
 }
 
 ```
-
-
-
+It occurs to me that I might know someone who could get me in...
 
 ```iron-vault-mechanics
 oracle-group name="Campaign Launch Oracles: New Campaign Launch Oracles" {
