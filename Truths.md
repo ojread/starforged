@@ -59,7 +59,15 @@ Many have no religion, or offer an occasional prayer out of habit. Others pay ho
 ## Magic
 ```iron-vault-truth
 truth:starforged/magic
+inserted
 ```
+Supernatural powers are wielded by those rare people we call paragons.
+
+While not magic in the truest sense, the abilities of the paragons are as close to magic as we can conjure.
+
+These powers are born of:
+
+Psychic experimentation
 
 ## Communication and Data
 ```iron-vault-truth
