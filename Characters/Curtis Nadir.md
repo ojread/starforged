@@ -19,6 +19,18 @@ Discoveries_Progress: 0
 Discoveries_XPEarned: 0
 iron-vault-kind: character
 callsign: Rook
+assets:
+  - id: asset:starforged/command_vehicle/starship
+    abilities:
+      - true
+      - false
+      - false
+    controls:
+      integrity: 5
+      integrity/battered: false
+      integrity/cursed: false
+    options:
+      name: Elara Five
 ---
 
 
@@ -38,5 +50,16 @@ callsign: Rook
 ```
 
 ```iron-vault-character-assets
+```
+
+```iron-vault-mechanics
+oracle-group name="Starship Oracles: New Starship Oracles" {
+    oracle name="[Starship Oracles \/ Starship Type](datasworn:oracle_rollable:starforged\/starship\/type)" result="Multipurpose" roll=80
+    oracle name="[Starship Oracles \/ Starship Name](datasworn:oracle_rollable:starforged\/starship\/starship_name)" result="Elara Five" roll=19
+    oracle name="[Starship Oracles \/ Fleet](datasworn:oracle_rollable:starforged\/starship\/fleet)" result="[Starship Mission](datasworn:oracle_collection:starforged\/starship\/mission)" roll=98
+    oracle name="[Starship Oracles \/ Initial Contact](datasworn:oracle_rollable:starforged\/starship\/initial_contact)" result="Familiar" roll=3
+    oracle name="[Starship Oracles \/ First Look](datasworn:oracle_rollable:starforged\/starship\/first_look)" result="Intimidating profile" roll=33
+    oracle name="[Starship Oracles \/ First Look](datasworn:oracle_rollable:starforged\/starship\/first_look)" result="Modern or advanced design" roll=48
+}
 ```
 
