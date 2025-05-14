@@ -6,7 +6,7 @@ momentum: 2
 edge: 0
 heart: 0
 iron: 0
-shadow: 0
+shadow: 1
 wits: 0
 health: 5
 spirit: 5
