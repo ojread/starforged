@@ -6,7 +6,9 @@ The [[Stellar Watchers]] quickly organised an expedition into the vault. The tea
 
 That's where I come in. I'm Curtis Nadir, previously an agent for the [[Silver Syndicate]], currently a miner operating out of [[Janus Station]], for the [[Obsidian Hammers]]. Five years ago, a precursor vault was discovered on [[Dryad]] and I was sent in as part of the security team for the expedition.
 
-We encountered strange energies and creatures in there that killed the rest of the team. I raced back to our ship, Elara Five which was altered somehow by the vault. There were strange symbols scrawled all over the walls and mysterious data in the nav computer that didn't make any sense. I flew the ship out of the vault moments before it vanished. 
+We encountered strange energies and creatures in there that killed the rest of the team. I raced back to our ship, Elara Five which was altered somehow by the vault. There were strange symbols scrawled all over the walls and mysterious data in the nav computer that didn't make any sense. I flew the ship out of the vault moments before it vanished.
+
+After that I just wanted to keep my head down. But these
 
 ```iron-vault-mechanics
 oracle-group name="Campaign Launch Oracles: New Campaign Launch Oracles" {
