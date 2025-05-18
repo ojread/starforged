@@ -1,10 +1,10 @@
 ---
-name: Enter the vault at Sapphire
+name: Ulan Kuzmin
 rank: dangerous
-progress: 32
+progress: 8
 tags:
-  - complete
-track-type: Vow
+  - incomplete
+track-type: Connection
 iron-vault-kind: progress
 ---
 

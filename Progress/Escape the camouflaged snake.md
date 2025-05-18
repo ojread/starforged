@@ -1,10 +1,10 @@
 ---
-name: Enter the vault at Sapphire
-rank: dangerous
+name: Escape the camouflaged snake
+rank: formidable
 progress: 32
 tags:
   - complete
-track-type: Vow
+track-type: Combat
 iron-vault-kind: progress
 ---
 
