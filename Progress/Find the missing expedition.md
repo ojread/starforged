@@ -1,7 +1,7 @@
 ---
 name: Find the missing expedition
 rank: formidable
-progress: 20
+progress: 24
 tags:
   - incomplete
 track-type: Expedition

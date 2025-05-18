@@ -2,13 +2,13 @@
 name: Curtis Nadir
 xp_spent: 0
 xp_added: 0
-momentum: 6
+momentum: 2
 edge: 2
 heart: 2
 iron: 1
 shadow: 1
 wits: 3
-health: 4
+health: 3
 spirit: 4
 supply: 5
 Quests_Progress: 2
