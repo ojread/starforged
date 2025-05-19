@@ -3,3 +3,6 @@
 
 # Workspace layout changes too much to sync.
 .obsidian/workspace*.json
+
+# We don't want this "helpful" file.
+conflict-files-obsidian-git.md
